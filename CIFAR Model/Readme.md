@@ -1,7 +1,7 @@
 # CIFAR Classification Model
 The model which I trained achieved ~86% accuracy.
-**The model can be trained using google's TPU hardware but few adjustments are needed:
-1. If you are using google colab go to the 'runtime' tab and select 'change runtime type' change the type of the hardware to TPU.**
+*The model can be trained using google's TPU hardware but few adjustments are needed:*
+1. If you are using google colab go to the 'runtime' tab and select 'change runtime type' change the type of the hardware to TPU.
 
 #### further work:
 1. Apply usage of Batchnormalization in order to achieve faster convergence of the loss function.
